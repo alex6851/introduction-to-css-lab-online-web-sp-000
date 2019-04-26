@@ -14,6 +14,8 @@ div {
   color:red;
   margin: auto;
   font-family: "Helvetica Neue"
+  background-color: white
+  padding: 30px
 }
 
 /* Class selector to select elements containing the class 'perspective-questions' */
